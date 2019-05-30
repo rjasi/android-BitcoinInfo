@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BitcoinInfo</string>
+    <string name="place_holder">BitcoinInfo</string>
+    <string name="price_place_holder"><b>8465.96</b> USD</string>
+    <string name="current_price">Current Price:\n$8465.98 USD</string>
+    <string name="watermark">Data provided by www.blockchain.com</string>
+    <string name="update_message">Data is updated every 10 seconds</string>
+
 </resources>
